@@ -4,10 +4,14 @@
 # Operations  
 
 * Display methods from another class    
-  
-    
+
+
 # Usage  
 ```
-python Abstraction.py  
+python index.py  
 ```
 
+# Usage for unit testing  
+```  
+python -m unittest tests/test_abstraction.py  
+```  
